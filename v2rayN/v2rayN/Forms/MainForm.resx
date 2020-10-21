@@ -493,6 +493,7 @@
   </data>
   <data name="menuAddVmessServer.Text" xml:space="preserve">
     <value>Add [VMess] server</value>
+  </data>
   <data name="menuQuicklyAddUserPAC.Size" type="System.Drawing.Size, System.Drawing">
     <value>264, 22</value>
   </data>
