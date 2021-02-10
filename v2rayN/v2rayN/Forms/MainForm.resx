@@ -1250,18 +1250,17 @@
     <value>393, 22</value>
   </data>
   <data name="cmsLv.Size" type="System.Drawing.Size, System.Drawing">
-    <value>356, 556</value>
+    <value>356, 600</value>
   </data>
-    <data name="lvServers.Location" type="System.Drawing.Point, System.Drawing">
-      <value>0, 0</value>
-    </data>
+  <data name="lvServers.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
   <data name="&gt;&gt;menuQuicklyAddUserPAC.Name" xml:space="preserve">
     <value>menuQuicklyAddUserPAC</value>
   </data>
   <data name="&gt;&gt;menuQuicklyAddUserPAC.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  
   <data name="&gt;&gt;lvServers.Parent" xml:space="preserve">
     <value>scMain.Panel1</value>
   </data>

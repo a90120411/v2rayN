@@ -861,7 +861,7 @@ namespace v2rayN.Forms
             {
                 //刷新
                 RefreshServers();
-                LoadV2ray();
+                //LoadV2ray();
                 UI.Show(UIRes.I18N("SuccessfullyImportedCustomServer"));
             }
             else
@@ -1150,7 +1150,7 @@ namespace v2rayN.Forms
             {
                 //TODO: reload is not good.
                 RefreshServers();
-                LoadV2ray();
+                //LoadV2ray();
             }
         }
         private void menuSelectAll_Click(object sender, EventArgs e)
